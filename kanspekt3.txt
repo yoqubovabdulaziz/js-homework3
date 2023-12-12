@@ -1,0 +1,42 @@
+constructor
+ular katta harf blan yoziladi 
+3 xil constructor lar bor
+1-number (sonlarni numberga o'tkazib berish)
+asosan sonlar bilan ishlashga yordam beradi
+
+2-string (stringa otkazib berish)
+asosan harflar blan ishlashga yordam beradi
+
+3-boolean (booleanga otkazib berish)
+
+NUMBER:
+
+number propertiylari: EPSILON (1 VA ENG KICHIK JAVA SCRIPT
+DAGI SON ORASIDAGI FARQ
+
+2-MAX_VALUE (js da qabul qilish mumkun bolgan eng katta son
+3-MIN_VALUE (js da qabul qilish mumkun bolgan eng kichik son
+4-MAX_SAFE_INTEGER (js da eng katta butun son)
+bu teng 2 ning darajasi -1 ga
+5-MIN__SAFE_INTEGER (jd da eng kichin mnfiy son)
+6-POSITIVE__INFINITIVY (hech qaysi son bundan katta bololmaydi(
+7-NEGATIVE__INFINITY (hech qausi son bundan kichin bololmaydi
+
+number method lari
+
+1-Number.isInteger(butunlikni tekshiradi)
+2-Number.IsSafeInteger(ham butunlik minimal va maxsimallikni tekshiradi)
+3-Number.parseInt (sonni butunga almashtirish)
+4-Number.perseFloat (stringni butun songa o'tkazib beradi)
+
+
+NUMBER METHODS
+
+1-n.toString (stringga o'girib beradi)
+2-n.toExponential (nuqtadan keyn nechta qiymat qolish kerakligini aniqlabberadi)
+3-n.toFixed (sonni yaxlidlaydi)
+4-n.toPrecision (bu ham yaxlidlaydi faqat bunda qiymat beramiz va jami nechta raqam chiqishi kerakligini belgilaydi)
+
+Type conversion and coercion :
+1-number: 
+2-string
